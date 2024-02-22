@@ -1,4 +1,4 @@
 import streamlit as st
 from PIL import Image
 
-st.title(" MI Primera App!!")
+st.title(" Mi Primera App!!")

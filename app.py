@@ -9,7 +9,6 @@ image = Image.open('imagen1.jpeg')
 
 st.image(image, caption= 'Interfaces multimodales')
 
-
 texto = st.text_input('Escribe algo', 'Este es mi texto')
 st.write('El texto escrito es,' texto)
 
